@@ -1,0 +1,16 @@
+C:\Users\К\source\repos\Sfr123\Sfr123\bin\Debug\Sfr123.exe.config
+C:\Users\К\source\repos\Sfr123\Sfr123\bin\Debug\Sfr123.exe
+C:\Users\К\source\repos\Sfr123\Sfr123\bin\Debug\Sfr123.pdb
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.csproj.AssemblyReference.cache
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form1.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Properties.Resources.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.csproj.GenerateResource.cache
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.csproj.CoreCompileInputs.cache
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.exe
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.pdb
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form2.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form3.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form4.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form5.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form6.resources
+C:\Users\К\source\repos\Sfr123\Sfr123\obj\Debug\Sfr123.Form7.resources
